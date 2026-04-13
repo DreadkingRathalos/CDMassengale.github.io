@@ -1,0 +1,7 @@
+Team: Example
+Mimikyu
+Venusaur
+Garchomp
+Primarina
+Incineroar
+Sneasler
